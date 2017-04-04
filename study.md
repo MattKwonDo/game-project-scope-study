@@ -15,10 +15,9 @@ class.
 Submit detailed answers to the following in this file via a pull request:
 
 -   A wireframe of what your game project will look like.
-  - To be done later
-  - _|_|_
-  - _|_|_
-  -  | |
+  - [Imgur](http://i.imgur.com/qIJOX4x.jpg)
+  - [Imgur](http://i.imgur.com/Zl7sVkd.jpg)
+  - [Imgur](http://i.imgur.com/0HjOHj1.jpg)
 -   The data structure you plan to use.
   - I will use arrays and objects to build the tic-tac-toe board, as well as
   - keep track of games played by users.
